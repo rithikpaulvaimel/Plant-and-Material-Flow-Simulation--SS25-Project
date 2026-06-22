@@ -208,7 +208,7 @@ The productivity of each scenario was measured over an 8-hour simulation period 
 
 - A minimum of **2 AGVs** was required to prevent blockage within the production system.
 - The minimum number of parallel stations required was:
-  - **6 TEST1 stations**
+  - **6 TEST stations**
   - **15 Charge stations**
   - **12 Control stations**
 - Most packaging buffers required a capacity of **1 piece**, while buffers **P_2** and **P_8** required a capacity of **2 pieces**.
@@ -268,12 +268,16 @@ Future cost reductions would likely come from operational improvements rather th
 
 The simulation demonstrated that the production and logistics system is capable of maintaining stable throughput under varying product mixes. The selected number of AGVs, parallel stations, and buffer capacities successfully prevented major bottlenecks while supporting consistent material flow. The main opportunity for future improvement lies in optimizing AGV dispatching and transport decision-making to further improve productivity and reduce work in progress.
 
---
+---
 ## Supported Files
 
 [Rithik_Paul_Vaimel_Plant and Material Flow Simulation_Github.pdf](https://github.com/user-attachments/files/29222116/Rithik_Paul_Vaimel_Plant.and.Material.Flow.Simulation_Github.pdf)
 
+[Simulation File.zip](https://github.com/user-attachments/files/29222518/Simulation.File.zip)
+
+
 ---
+
 ## License
 
 Copyright (c) 2026 Rithik Paul Vaimel. All Rights Reserved.
