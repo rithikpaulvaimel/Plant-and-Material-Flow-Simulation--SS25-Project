@@ -1,0 +1,2 @@
+# Plant-and-Material-Flow-Simulation--SS25-Project
+Developed a digital production model using Siemens Tecnomatix Plant Simulation. The simulation consisted of conveyors, buffers, AGV transport systems, and production workstations operating under varying conditions. Analyzed operational performance, identified process bottlenecks and evaluated improvements to material flow efficiency and throughput.
